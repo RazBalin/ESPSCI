@@ -1,4 +1,8 @@
-#                   GNU GENERAL PUBLIC LICENSE
+<div align="center">
+<h1>GNU GENERAL PUBLIC LICENSE</h1>
+</div>
+
+
                       Version 3, 29 June 2007
 -------------------------------------------------------------------
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
