@@ -1,5 +1,6 @@
-
-# Contributor Covenant Code of Conduct
+<div align="center">
+<h1>Contributor Covenant Code of Conduct</h1>
+</div>
 
 ## Our Pledge
 
